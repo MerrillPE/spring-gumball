@@ -1,2 +1,1 @@
-# spring-gumball
-CMPE172 Lab 10
+# spring-gumball ci/cd example
